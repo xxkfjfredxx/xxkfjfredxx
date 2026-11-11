@@ -123,8 +123,8 @@ Reporte ciudadano de huecos en las vías, con app Android y backend.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xxkfjfredxx&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxkfjfredxx&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xxkfjfredxx&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xxkfjfredxx&theme=github_dark" alt="Lenguajes" />
 
 <img src="https://streak-stats.demolab.com?user=xxkfjfredxx&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Racha de contribuciones" />
 
