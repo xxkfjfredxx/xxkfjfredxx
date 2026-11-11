@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Fred+Rueda+%E2%80%94+Software+Engineer;Android+%C2%B7+Backend+%C2%B7+Full+Stack;Construyo+productos+de+punta+a+punta" alt="Fred Rueda — Software Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Fred+Rueda+%E2%80%94+Android+Developer;Desarrollando+Android+desde+2014;Kotlin+%C2%B7+Java+%C2%B7+Jetpack+Compose;Productos+de+punta+a+punta+con+IA" alt="Fred Rueda — Android Developer" />
 
-**Ingeniero de software full stack · Quindío, Colombia 🇨🇴**
+**Desarrollador Android desde 2014 · Quindío, Colombia 🇨🇴**
 
-Diseño y construyo productos completos: apps Android nativas, backends escalables, paneles web e infraestructura en producción.
+Apps Android nativas de principio a fin, y cuando el proyecto lo pide, también su backend, su panel web y su despliegue.
 
-[![Email](https://img.shields.io/badge/Email-xxkfjfredxx%40hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:xxkfjfredxx@hotmail.com)
-![Ubicación](https://img.shields.io/badge/Quind%C3%ADo-Colombia-FCD116?style=flat-square&logo=googlemaps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fredrueda-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/fredrueda/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-android--fred--rueda-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android-fred-rueda.jimdosite.com/)
+[![Email](https://img.shields.io/badge/Email-fredruedao%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredruedao@gmail.com)
+
 ![Profile views](https://komarev.com/ghpvc/?username=xxkfjfredxx&style=flat-square&color=58A6FF&label=visitas)
 
 </div>
@@ -18,13 +20,22 @@ Diseño y construyo productos completos: apps Android nativas, backends escalabl
 
 ```kotlin
 object FredRueda {
-    val rol        = "Software Engineer · Full Stack"
-    val base       = "Armenia, Quindío — Colombia"
-    val enfoque    = listOf("Android nativo", "APIs y backends", "Sistemas en tiempo real", "DevOps")
-    val construyo  = listOf("Movilidad", "Domicilios multi-tenant", "Streaming", "Gestión de riesgo")
-    val filosofia  = "Del requerimiento al despliegue: diseño, código, pruebas y producción."
+    val rol         = "Android Developer · desde 2014"
+    val base        = "Armenia, Quindío — Colombia"
+    val experto     = listOf("Kotlin", "Java", "Jetpack Compose", "XML", "Material 3", "MVVM", "MVC")
+    val tambien     = listOf("Flutter", "Firebase", "Bases de datos SQL", "Backends con IA")
+    val bases       = listOf("PHP", "HTML", "Python", "Análisis de datos", "LLMs")
+    val trabajoConIA = 2025
+    val lema        = "Si tiene documentación, lo integro."
 }
 ```
+
+- 📱 **Más de 10 años en Android nativo**: Kotlin y Java, interfaces en XML y en **Jetpack Compose**, **Material 3**, arquitecturas **MVVM / MVC** y patrones de diseño.
+- 🔌 **Integración de SDKs**: Google, Facebook, Firebase, pagos, mapas, notificaciones y cualquier SDK que tenga documentación.
+- 🤖 **Desarrollo asistido por IA desde 2025**: uso LLMs para construir productos completos más rápido (apps, backends, paneles e infraestructura).
+- 📊 **Bootcamp de análisis de datos** (3 meses): Python en Google Colab, árboles de decisión y otros algoritmos. Sé cuándo y para qué usar cada uno.
+- 🗄️ **Bases de datos**: modelado, relaciones y consultas.
+- 🎬 **Marketing básico**: creación de videos y piezas para redes sociales.
 
 ## 🚀 Proyectos destacados
 
@@ -99,25 +110,40 @@ Reporte ciudadano de huecos en las vías, con app Android y backend.
 
 ## 🛠️ Stack tecnológico
 
-**Móvil**
+**📱 Android, mi especialidad**
 
-[![Mobile](https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase&theme=dark)](https://skillicons.dev)
+[![Android](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,gcp&theme=dark)](https://skillicons.dev)
 
-**Backend**
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![XML](https://img.shields.io/badge/XML%20Layouts-3DDC84?style=flat-square&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM%20%C2%B7%20MVC-0D1117?style=flat-square)
+![Patrones](https://img.shields.io/badge/Patrones%20de%20dise%C3%B1o-0D1117?style=flat-square)
+![SDKs](https://img.shields.io/badge/SDKs-Google%20%C2%B7%20Facebook%20%C2%B7%20Firebase-0D1117?style=flat-square)
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,python,django,prisma,postgres,mysql,redis&theme=dark)](https://skillicons.dev)
+**📲 Multiplataforma**
 
-**Frontend**
+[![Flutter](https://skillicons.dev/icons?i=flutter,dart&theme=dark)](https://skillicons.dev)
 
-[![Frontend](https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,html,css&theme=dark)](https://skillicons.dev)
+**🗄️ Backend y bases de datos**
 
-**DevOps y herramientas**
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,python,php,prisma,postgres,mysql,sqlite&theme=dark)](https://skillicons.dev)
 
-[![DevOps](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vscode&theme=dark)](https://skillicons.dev)
+**🌐 Web**
 
-**Hardware**
+[![Web](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark)](https://skillicons.dev)
 
-[![Hardware](https://skillicons.dev/icons?i=arduino,cpp&theme=dark)](https://skillicons.dev)
+**🤖 IA y datos**
+
+![LLMs](https://img.shields.io/badge/LLMs-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Vibe coding](https://img.shields.io/badge/Desarrollo%20con%20IA-desde%202025-8A2BE2?style=flat-square)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**🧰 Herramientas**
+
+[![Tools](https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ## 📊 Estadísticas
 
@@ -134,6 +160,6 @@ Reporte ciudadano de huecos en las vías, con app Android y backend.
 
 <div align="center">
 
-💬 **¿Tienes un proyecto en mente?** Escríbeme y lo construimos.
+💬 **¿Tienes una app en mente?** Escríbeme por [LinkedIn](https://www.linkedin.com/in/fredrueda/) o a **fredruedao@gmail.com**.
 
 </div>
